@@ -15,8 +15,6 @@
   "dependencies": {
     "@inklesspen/genderrolls": "^1.0.2",
     "bluebird": "^3.4.1",
-    "mailchimp-api-v3": "^1.7.1",
-    "mongodb": "^2.2.31",
     "node-fetch": "^1.5.3",
     "querystring": "^0.2.0",
     "redis": "^2.6.3",
